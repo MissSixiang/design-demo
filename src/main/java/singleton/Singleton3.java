@@ -2,7 +2,7 @@ package singleton;
 
 /**
  * @description 双重校验
- * @author: muse
+ * @author: yianmou
  **/
 public class Singleton3 {
     private volatile static Singleton3 singletonDemo3;

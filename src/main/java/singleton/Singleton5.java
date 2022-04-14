@@ -2,7 +2,7 @@ package singleton;
 
 /**
  * @description 枚举
- * @author: muse
+ * @author: yianmou
  **/
 public enum Singleton5 {
     //枚举元素本身就是单例
